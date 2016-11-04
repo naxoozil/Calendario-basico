@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalendarioBasicoNacho()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CalendarioBasicoNacho\r\n
+comment1.params=dia1\ mes1\ a\u00F1o1
+comment1.target=void\ fijarFecha(int,\ int,\ int)
+comment1.text=\r\n\ Permite\ fijar\ la\ fecha\ \r\n
+comment2.params=
+comment2.target=void\ avanzarFecha()
+comment2.text=\r\n\ \r\n
+numComments=3
